@@ -1,6 +1,7 @@
 <p align="center">
     <img src="documents/icon.jpg" />
 </p>
+
 ## 🤖 TG_Bot (v1.0.0)
 
 **Bot Telegram Pribadi**  
