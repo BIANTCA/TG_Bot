@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="asset/BIANTCA ICON.jpg" />
+    <img src="documents/icon.jpg" />
 </p>
 # 🤖 TG_Bot (v1.0.0)
 
