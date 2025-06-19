@@ -1,0 +1,6 @@
+[2025-06-19 20:56:17] Traceback (most recent call last):
+  File "/storage/emulated/0/Download/Project/autoTgBot/start.py", line 35, in check
+    bot.send_message(setting['owner'][0], 'start code: '+code)
+                                          ~~~~~~~~~~~~~~^~~~~
+TypeError: can only concatenate str (not "int") to str
+

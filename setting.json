@@ -1,0 +1,14 @@
+{
+ "version": "97140",
+ "bot": {
+  "api": "bot api",
+  "code": "3"
+ },
+ "channel": {
+  "id": "@username",
+  "int": -10000000
+ },
+ "owner": [
+  1234567890
+ ]
+}
