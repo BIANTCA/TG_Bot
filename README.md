@@ -75,20 +75,21 @@ Video, thumbnail dan caption diambil secara acak dari daftar file.
 
 🛠 Struktur Direktori
 
-
--main.py
--setting.json
--function/
---tools.py
---video.py
--documents/
---video.json
---videoList.json
---thumbnail.json
---tittle.json
--logging/
---***.log
-
+```
+TG_Bot/
+├── main.py
+├── setting.json
+├── function/
+│   ├── tools.py
+│   └── fvideo.py
+├── documents/
+│   ├── video.json
+│   ├── videoList.json
+│   ├── thumbnail.json
+│   ├── tittle.json
+│   └── logging/
+│       └── logging.log
+```
 
 ---
 
@@ -108,9 +109,4 @@ Memasukkan token bot dan owner ID di setting.json
 
 📌 Catatan
 
-Bot ini masih dalam pengembangan awal (v1.0.0). Fitur keamanan dan validasi akan ditambahkan di versi selanjutnya.
-
----
-
-Kalau kamu butuh versi markdown
-
+Bot ini masih dalam pengembangan awal (v1.0.0). Fitur keamanan dan validasi akan ditambahkan di versi selanjutnya
