@@ -1,7 +1,7 @@
 <p align="center">
     <img src="documents/icon.jpg" />
 </p>
-# 🤖 TG_Bot (v1.0.0)
+## 🤖 TG_Bot (v1.0.0)
 
 **Bot Telegram Pribadi**  
 Hanya untuk penggunaan pribadi dengan fitur utama menerima dan mengelola **video** dan **foto** dari pengguna. Bot ini juga dapat melakukan perintah khusus oleh pemilik (owner).
