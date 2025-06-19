@@ -76,18 +76,18 @@ Video, thumbnail dan caption diambil secara acak dari daftar file.
 🛠 Struktur Direktori
 
 .
-├── main.py
-├── setting.json
-├── function/
-│   ├── tools.py
-│   └── video.py
-├── documents/
-│   ├── video.json
-│   ├── videoList.json
-│   ├── thumbnail.json
-│   ├── tittle.json
-│   └── logging/
-│       └── *.log
+-main.py
+-setting.json
+-function/
+--tools.py
+--video.py
+-documents/
+--video.json
+--videoList.json
+--thumbnail.json
+--tittle.json
+-logging/
+--***.log
 
 
 ---
