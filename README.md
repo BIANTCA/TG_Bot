@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="asset/BIANTCA ICON.jpg" />
+</p>
 # 🤖 TG_Bot (v1.0.0)
 
 **Bot Telegram Pribadi**  
