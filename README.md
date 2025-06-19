@@ -75,7 +75,7 @@ Video, thumbnail dan caption diambil secara acak dari daftar file.
 
 🛠 Struktur Direktori
 
-.
+
 -main.py
 -setting.json
 -function/
